@@ -11,7 +11,7 @@ Almost everything is in **`js/data.js`**:
 | add a news item | copy an entry in `news` (types: award, paper, people, event, talk, grant, role, defence, media) |
 | add a member | copy an entry in `people`; add a square photo (~600 px) to `images/people/` |
 | move someone to alumni | move their entry from `people` to `alumni` and fill in `now` |
-| add a course | copy an entry in `courses` (`level` is `MSc` or `BSc`) |
+| add a course | copy an entry in `courses` (`level` is `MSc`, `BSc` or `Interdisciplinary`) |
 | add an MSc thesis | copy an entry in `theses` (put the code in a `rai-uu` repository) |
 | add a publication | copy an entry in **`js/publications.js`** |
 
