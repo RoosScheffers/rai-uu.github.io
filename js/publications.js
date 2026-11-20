@@ -53,30 +53,6 @@ window.RAI_PUBLICATIONS = [
  },
  {
   "year": 2026,
-  "title": "Bias in Book Recommendation: A Case Study on the Danish Public Libraries",
-  "authors": [
-   "Savvina Daniil",
-   "Søren Højlund Mollerup",
-   "Laura Hollink"
-  ],
-  "venue": "Advances in Information Retrieval: 48th European Conference on Information Retrieval (ECIR 2026), Delft, The Netherlands, Lecture Notes in Computer Science, Part III, pp. 256–270",
-  "type": "conference",
-  "link": "https://doi.org/10.1007/978-3-032-21324-2_22"
- },
- {
-  "year": 2026,
-  "title": "Bias in book recommendation: A survey",
-  "authors": [
-   "Savvina Daniil",
-   "Gauri Bhagwat",
-   "Laura Hollink"
-  ],
-  "venue": "ACM Transactions on Recommender Systems",
-  "type": "journal",
-  "link": "https://doi.org/10.1145/3858614"
- },
- {
-  "year": 2026,
   "title": "Computational Theory of Mind for Effective Hybrid Intelligence",
   "authors": [
    "Emre Erdogan"
@@ -273,18 +249,6 @@ window.RAI_PUBLICATIONS = [
  },
  {
   "year": 2026,
-  "title": "LLMs as Annotators: Evaluating Model–Human Alignment in Detecting Contentious Language in Historical Corpora",
-  "authors": [
-   "Yahui Zhao",
-   "Clemencia Siro",
-   "Laura Hollink"
-  ],
-  "venue": "Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026), pp. 10883–10896",
-  "type": "conference",
-  "link": "https://doi.org/10.63317/3dhy55mxo9zb"
- },
- {
-  "year": 2026,
   "title": "Mind the Context: Continual Learning of Socially Appropriate Robot Actions via Environmental-Social Disentanglement",
   "authors": [
    "Rafal Robert Karpinski",
@@ -401,18 +365,6 @@ window.RAI_PUBLICATIONS = [
  },
  {
   "year": 2026,
-  "title": "QueerGen: How LLMs Reflect Societal Norms on Gender and Sexuality in Sentence Completion Task",
-  "authors": [
-   "Mae Sosto",
-   "Delfina S. Martinez Pandiani",
-   "Laura Hollink"
-  ],
-  "venue": "Findings of the Association for Computational Linguistics: EACL 2026, pp. 4305–4326",
-  "type": "conference",
-  "link": "https://doi.org/10.18653/v1/2026.findings-eacl.225"
- },
- {
-  "year": 2026,
   "title": "Rules of engagement: preserving academic values in impactful collaborations with public sector partners",
   "authors": [
    "Albert Meijer",
@@ -510,17 +462,6 @@ window.RAI_PUBLICATIONS = [
   "type": "conference",
   "link": "https://dblp.org/rec/conf/icccrea/YazanSD26",
   "award": "ICCC 2026 Best Student Paper Award"
- },
- {
-  "year": 2026,
-  "title": "When More Metadata Misleads: Probing Field-Level Grounding in LLM-Generated Museum Descriptions",
-  "authors": [
-   "Clemencia Siro",
-   "Laura Hollink"
-  ],
-  "venue": "Findings of the Association for Computational Linguistics: EMNLP 2026, pp. 49666–49688",
-  "type": "conference",
-  "link": "https://doi.org/10.18653/2026.findings-emnlp.2314"
  },
  {
   "year": 2025,
@@ -805,18 +746,6 @@ window.RAI_PUBLICATIONS = [
   "venue": "IEEE Internet Computing, vol. 29, no. 5, pp. 5–6 (special issue editorial)",
   "type": "journal",
   "link": "https://doi.org/10.1109/mic.2025.3623390"
- },
- {
-  "year": 2025,
-  "title": "The effect of preference elicitation methods on the user experience in conversational recommender systems",
-  "authors": [
-   "Liv Ziegfeld",
-   "Daan Di Scala",
-   "Anita H.M. Cremers"
-  ],
-  "venue": "Computer Speech & Language, vol. 89, article 101696",
-  "type": "journal",
-  "link": "https://doi.org/10.1016/j.csl.2024.101696"
  },
  {
   "year": 2025,
