@@ -6,7 +6,9 @@
      type is one of: award, paper, people, event, talk, grant, role, defence, media
      date is "YYYY-MM-DD" or "YYYY-MM" or "YYYY".
    - Add a person: copy one entry in `people`; group is one of the ids in
-     `peopleGroups`. Put the photo (square, ~600px) in images/people/.
+     `peopleGroups`. Except for faculty (shown in the order written here),
+     each section is sorted by `start` ("YYYY-MM", when they joined),
+     earliest first. Put the photo (square, ~600px) in images/people/.
      No photo? Leave photo out and initials are shown.
    - Someone left? Move them from `people` to `alumni`.
    Text fields accept *italic* and [link text](https://...).
@@ -47,59 +49,59 @@ window.RAI = {
       topic: "Human–AI teams and hybrid intelligence: keeping AI behaviour aligned with human norms and values." },
 
     // Postdocs and researchers
-    { group: "postdoc", name: "Amr Afifi", role: "Postdoc", since: "2026", photo: "images/people/afifi.jpg",
+    { group: "postdoc", name: "Amr Afifi", start: "2026-09", role: "Postdoc", since: "2026", photo: "images/people/afifi.jpg",
       url: "https://www.uu.nl/staff/ANMGAfifi",
       topic: "Operationalising hybrid intelligence: a technical evaluation framework for human–AI teams (Hybrid Intelligence Centre)." },
-    { group: "postdoc", name: "Begüm Mutlu Bilge", role: "Postdoc", since: "2026", photo: "images/people/mutlubilge.jpg",
+    { group: "postdoc", name: "Begüm Mutlu Bilge", start: "2026-09", role: "Postdoc", since: "2026", photo: "images/people/mutlubilge.jpg",
       url: "https://www.hybrid-intelligence-centre.nl/who-is-who/begum-mutlu-bilge/",
       topic: "Machine learning and NLP for responsible decision support, aligning claims, evidence and reviews in scientific publishing. Also at Ankara University." },
-    { group: "postdoc", name: "Cor Steging", role: "Researcher", since: "2026", photo: "images/people/steging.jpg",
+    { group: "postdoc", name: "Cor Steging", start: "2026-09", role: "Researcher", since: "2026", photo: "images/people/steging.jpg",
       url: "https://www.uu.nl/staff/CCSteging",
       topic: "AI and law." },
 
     // National Police Lab AI
-    { group: "police", name: "Daphne Odekerken", role: "Researcher, AI scientist at the Dutch National Police", photo: "images/people/odekerken.jpg",
+    { group: "police", name: "Daphne Odekerken", start: "2023-05", role: "Researcher, AI scientist at the Dutch National Police", photo: "images/people/odekerken.jpg",
       url: "https://www.uu.nl/staff/DOdekerken",
       topic: "Argumentation-based, transparent decision support for law enforcement." },
-    { group: "police", name: "Bas Testerink", role: "Researcher, AI scientist at the Dutch National Police", photo: "images/people/testerink.jpg",
+    { group: "police", name: "Bas Testerink", start: "2023-05", role: "Researcher, AI scientist at the Dutch National Police", photo: "images/people/testerink.jpg",
       url: "https://www.uu.nl/staff/BJGTesterink" },
     { group: "police", name: "Michiel Bron", role: "PhD candidate", photo: "images/people/bron.jpg",
       url: "https://www.uu.nl/staff/MPBron",
       topic: "PhD candidate in the National Police Lab AI, also part of the Data Intensive Systems group." },
 
     // PhD candidates
-    { group: "phd", name: "Anastasia Apeiron", role: "PhD candidate", since: "2024", photo: "images/people/anastasia.png",
+    { group: "phd", name: "Anastasia Apeiron", start: "2024-02", role: "PhD candidate", since: "2024", photo: "images/people/anastasia.png",
       url: "https://www.uu.nl/staff/ASApeiron",
       topic: "Consent management for responsible autonomy." },
-    { group: "phd", name: "Roos Scheffers", role: "PhD candidate", since: "2024", photo: "images/people/roos.jpg",
+    { group: "phd", name: "Roos Scheffers", start: "2024-01", role: "PhD candidate", since: "2024", photo: "images/people/roos.jpg",
       url: "https://www.uu.nl/staff/RJScheffers",
       topic: "Knowledge-based AI for police intelligence analysis and contestable AI evidence (AI4Intelligence)." },
-    { group: "phd", name: "Tamara Florijn", role: "PhD candidate", photo: "images/people/florijn.jpg",
+    { group: "phd", name: "Tamara Florijn", start: "2023-05", role: "PhD candidate", photo: "images/people/florijn.jpg",
       url: "https://www.uu.nl/staff/CPFlorijn",
       topic: "Multi-agent negotiation: one party negotiating with many over several deals." },
-    { group: "phd", name: "Daan Di Scala", role: "PhD candidate", since: "2025", photo: "images/people/discala.jpg",
+    { group: "phd", name: "Daan Di Scala", start: "2025-06", role: "PhD candidate", since: "2025", photo: "images/people/discala.jpg",
       url: "https://www.uu.nl/staff/DLDiScala",
       topic: "Knowledge-enhanced self-reflection for AI advice systems, combining LLMs and knowledge graphs (with TNO)." },
-    { group: "phd", name: "Evelien van der Laan", role: "PhD candidate", since: "2025", photo: "images/people/vanderlaan.jpg",
+    { group: "phd", name: "Evelien van der Laan", start: "2025-01", role: "PhD candidate", since: "2025", photo: "images/people/vanderlaan.jpg",
       url: "https://www.uu.nl/staff/EAvanderLaan",
       topic: "Bias in the data used to train police AI models (National Police Lab AI)." },
-    { group: "phd", name: "Dennis Craandijk", role: "PhD candidate",
+    { group: "phd", name: "Dennis Craandijk", start: "2023-05", role: "PhD candidate",
       url: "https://www.uu.nl/staff/DFWCraandijk" },
-    { group: "phd", name: "David van Kuijk", role: "Dual PhD candidate", since: "2024",
+    { group: "phd", name: "David van Kuijk", start: "2024-04", role: "Dual PhD candidate", since: "2024",
       url: "https://www.uu.nl/staff/DJvanKuijk",
       topic: "Trustworthy and safe large language models. Also Senior AI IT Architect at the Dutch Tax and Customs Administration (Belastingdienst)." },
-    { group: "phd", name: "Berke Yazan", role: "PhD candidate", since: "2025", photo: "images/people/yazan.jpg",
+    { group: "phd", name: "Berke Yazan", start: "2025-09", role: "PhD candidate", since: "2025", photo: "images/people/yazan.jpg",
       url: "https://www.uu.nl/staff/BYazan",
       topic: "Justifications in human–AI teams: AI that aligns with human norms and values through justifiable reasoning (Hybrid Intelligence Centre)." },
 
     // Associated members
-    { group: "associated", name: "Chiara Natali", role: "Postdoc, VU Amsterdam and Utrecht University", since: "2026", photo: "images/people/natali.jpg",
+    { group: "associated", name: "Chiara Natali", start: "2026-04", role: "Postdoc, VU Amsterdam and Utrecht University", since: "2026", photo: "images/people/natali.jpg",
       url: "https://www.hybrid-intelligence-centre.nl/who-is-who/chiara-natali/",
       topic: "The HI-ness framework: design patterns, metrics and ontologies to define and assess hybrid intelligence. Co-supervised by Davide Dell'Anna." },
-    { group: "associated", name: "Mitja Orlov", role: "PhD candidate, University of Amsterdam", since: "2025", photo: "images/people/orlov.jpg",
+    { group: "associated", name: "Mitja Orlov", start: "2025-09", role: "PhD candidate, University of Amsterdam", since: "2025", photo: "images/people/orlov.jpg",
       url: "https://www.hybrid-intelligence-centre.nl/who-is-who/mitja-orlov/",
       topic: "Hybrid knowledge elicitation for scientific data in heterogeneous teams. Co-supervised by Davide Dell'Anna." },
-    { group: "associated", name: "Mae Sosto", role: "PhD candidate, CWI Amsterdam", since: "2024", photo: "images/people/sosto.jpg",
+    { group: "associated", name: "Mae Sosto", start: "2024-11", role: "PhD candidate, CWI Amsterdam", since: "2024", photo: "images/people/sosto.jpg",
       url: "https://maesosto.github.io/",
       topic: "How large language models represent queer identities and reproduce heteronormative biases. Supervised by Laura Hollink." }
   ],

@@ -127,6 +127,14 @@
     var groups = D.peopleGroups || [];
     el.innerHTML = groups.map(function (g) {
       var ps = (D.people || []).filter(function (p) { return p.group === g.id; });
+      // Faculty keep the order written in data.js; other sections go by start date, earliest first
+      // (people without a start date go last, in their written order).
+      if (g.id !== "faculty") {
+        ps = ps.map(function (p, i) { return { p: p, i: i }; }).sort(function (a, b) {
+          var x = a.p.start || "9999", y = b.p.start || "9999";
+          return x < y ? -1 : x > y ? 1 : a.i - b.i;
+        }).map(function (o) { return o.p; });
+      }
       if (!ps.length) return "";
       return '<div class="group-title" id="' + esc(g.id) + '"><h2>' + esc(g.title) + "</h2></div>" + (g.intro ? '<p class="lead" style="margin:-8px 0 24px">' + md(g.intro) + "</p>" : "") + '<div class="people-grid">' + ps.map(personCard).join("") + "</div>";
     }).join("");
