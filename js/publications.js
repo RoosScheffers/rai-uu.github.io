@@ -1357,5 +1357,47 @@ window.RAI_PUBLICATIONS = [
   "venue": "Legal Knowledge and Information Systems: JURIX 2023, The Thirty-sixth Annual Conference, Maastricht, The Netherlands, Frontiers in Artificial Intelligence and Applications, vol. 379, IOS Press, pp. 375–378",
   "type": "conference",
   "link": "https://doi.org/10.3233/FAIA230992"
+ },
+ {
+  "year": 2026,
+  "title": "Bridging the Gap: On the Role of Domain Knowledge in Reconciling Machine Learning with Expert Reasoning in High-Risk Domains",
+  "authors": [
+   "Joeri G. T. Peters"
+  ],
+  "venue": "PhD thesis, Utrecht University",
+  "type": "other",
+  "link": "https://doi.org/10.33540/3582"
+ },
+ {
+  "year": 2025,
+  "title": "Beyond Trust: A Causal Approach to Explainable AI in Law Enforcement",
+  "authors": [
+   "Marcel Robeer"
+  ],
+  "venue": "PhD thesis, Utrecht University",
+  "type": "other",
+  "link": "https://doi.org/10.33540/3192"
+ },
+ {
+  "year": 2025,
+  "title": "A Fortiori Case-Based Reasoning: Formal Studies with Applications in Artificial Intelligence and Law",
+  "authors": [
+   "Wijnand van Woerkom"
+  ],
+  "venue": "PhD thesis, Utrecht University, SIKS Dissertation Series 2025-56",
+  "type": "other",
+  "link": "https://doi.org/10.33540/2994"
+ },
+ {
+  "year": 2025,
+  "title": "Explainable AI Is No Silver Bullet: Towards a Contextual Understanding of Appropriate Reliance on AI in Law Enforcement",
+  "authors": [
+   "Merijn Bruijnes",
+   "Stephan Grimmelikhuijsen",
+   "Marcel Robeer"
+  ],
+  "venue": "Public Governance and Emerging Technologies, Springer, pp. 61–82",
+  "type": "chapter",
+  "link": "https://doi.org/10.1007/978-3-031-84748-6_4"
  }
 ];
