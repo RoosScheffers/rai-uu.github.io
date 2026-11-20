@@ -18,7 +18,7 @@ window.RAI = {
     { id: "faculty", title: "Faculty" },
     { id: "postdoc", title: "Postdocs and researchers" },
     { id: "phd", title: "PhD candidates" },
-    { id: "police", title: "National Police Lab AI", intro: "The group hosts the Utrecht part of the [National Police Lab AI](https://www.uu.nl/en/research/ai-labs/our-labs/national-police-lab-ai), a collaboration with the Dutch National Police, led by Floris Bex. These researchers work at the Police and do research in the lab." },
+    { id: "police", title: "National Police Lab AI", intro: "The group hosts the Utrecht part of the [National Police Lab AI](https://www.uu.nl/en/research/ai-labs/our-labs/national-police-lab-ai), a collaboration with the Dutch National Police, led by Floris Bex. These researchers work in the lab, several of them also at the Dutch National Police." },
     { id: "associated", title: "Associated members", intro: "Researchers based at other institutions who are supervised or co-supervised by members of the group." }
   ],
 
@@ -63,6 +63,9 @@ window.RAI = {
       topic: "Argumentation-based, transparent decision support for law enforcement." },
     { group: "police", name: "Bas Testerink", role: "Researcher, AI scientist at the Dutch National Police", photo: "images/people/testerink.jpg",
       url: "https://www.uu.nl/staff/BJGTesterink" },
+    { group: "police", name: "Michiel Bron", role: "PhD candidate", photo: "images/people/bron.jpg",
+      url: "https://www.uu.nl/staff/MPBron",
+      topic: "PhD candidate in the National Police Lab AI, also part of the Data Intensive Systems group." },
 
     // PhD candidates
     { group: "phd", name: "Anastasia Apeiron", role: "PhD candidate", since: "2024", photo: "images/people/anastasia.png",
@@ -82,6 +85,9 @@ window.RAI = {
       topic: "Bias in the data used to train police AI models (National Police Lab AI)." },
     { group: "phd", name: "Dennis Craandijk", role: "PhD candidate",
       url: "https://www.uu.nl/staff/DFWCraandijk" },
+    { group: "phd", name: "David van Kuijk", role: "Dual PhD candidate", since: "2024",
+      url: "https://www.uu.nl/staff/DJvanKuijk",
+      topic: "Trustworthy and safe large language models. Also Senior AI IT Architect at the Dutch Tax and Customs Administration (Belastingdienst)." },
     { group: "phd", name: "Berke Yazan", role: "PhD candidate", since: "2025", photo: "images/people/yazan.jpg",
       url: "https://www.uu.nl/staff/BYazan",
       topic: "Justifications in human–AI teams: AI that aligns with human norms and values through justifiable reasoning (Hybrid Intelligence Centre)." },
@@ -101,6 +107,9 @@ window.RAI = {
   /* ------------------------------------------------------------------ ALUMNI */
   alumni: [
     { name: "Emre Erdogan", role: "PhD candidate. Thesis: [*Computational Theory of Mind for Effective Hybrid Intelligence*](https://research-portal.uu.nl/en/publications/computational-theory-of-mind-for-effective-hybrid-intelligence/)", years: "–2026", until: "2026-05", now: "" },
+    { name: "Joeri Peters", role: "PhD candidate, supervised by Floris Bex and Henry Prakken. Thesis: [*Bridging the Gap: On the role of domain knowledge in reconciling machine learning with expert reasoning in high-risk domains*](https://www.uu.nl/en/events/phd-defence-bridging-the-gap-on-the-role-of-domain-knowledge-in-reconciling-machine-learning-with)", years: "–2026", until: "2026-08", url: "https://www.uu.nl/staff/JGTPeters", now: "" },
+    { name: "Marcel Robeer", role: "PhD candidate, National Police Lab AI. Thesis: [*Beyond Trust: A Causal Approach to Explainable AI in Law Enforcement*](https://www.uu.nl/en/news/an-ai-toolkit-for-uncovering-hidden-biases-in-police-algorithms)", years: "–2025", until: "2025-11", now: "AI oversight officer, Dutch Ministry of Defence" },
+    { name: "Wijnand van Woerkom", role: "PhD candidate, Hybrid Intelligence Centre. Thesis: [*A Fortiori Case-Based Reasoning: Formal Studies with Applications in Artificial Intelligence and Law*](https://research-portal.uu.nl/en/publications/a-fortiori-case-based-reasoning-formal-studies-with-applications-/)", years: "–2025", until: "2025-10", now: "" },
     { name: "Mireia Yurrita", role: "Postdoc, Methodologies and Metrics for Hybrid Intelligence (Hybrid Intelligence Centre)", years: "2025–2026", until: "2026-01", url: "https://mireiayurrita.github.io/", now: "Scientific Officer, European Commission" },
     { name: "Hüseyin Aydın", role: "Postdoc", years: "2023–2025", until: "2025-07", url: "https://user.ceng.metu.edu.tr/~huseyin/", now: "Assistant Professor, Middle East Technical University (METU), Ankara" },
     { name: "Daphne Odekerken", role: "PhD candidate (National Police Lab AI)", years: "–2025", until: "2025", url: "https://webspace.science.uu.nl/~3827887/", now: "AI scientist, Dutch National Police; guest researcher in the group" },
@@ -109,6 +118,10 @@ window.RAI = {
 
   /* ------------------------------------------------------------------ NEWS */
   news: [
+    { date: "2026-08-27", type: "defence", people: ["Floris Bex", "Henry Prakken", "Davide Dell'Anna"],
+      title: "Joeri Peters defends his PhD thesis \"Bridging the Gap: On the role of domain knowledge in reconciling machine learning with expert reasoning in high-risk domains\"",
+      text: "Supervised by Floris Bex and Henry Prakken; Davide Dell'Anna served on the committee.",
+      link: "https://www.uu.nl/en/events/phd-defence-bridging-the-gap-on-the-role-of-domain-knowledge-in-reconciling-machine-learning-with" },
     { date: "2026-10-20", type: "talk", people: ["Pınar Yolum", "Laura Hollink"],
       title: "Pınar Yolum and Laura Hollink give keynotes at Alice & Eve 2026, Utrecht University's event celebrating women in computing",
       text: "Laura Hollink spoke on \"Bias in Knowledge Graphs\" and Pınar Yolum on \"Human–AI Collaboration Beyond Prediction\".",
@@ -143,6 +156,13 @@ window.RAI = {
       title: "Laura Hollink speaks at the launch of the new heritage research agenda (Onderzoeksagenda Erfgoed) at the Dutch Ministry of Education, Culture and Science",
       text: "She reflected on how AI can serve the agenda, and why heritage matters for AI.",
       link: "https://nwa-levendverleden.nl/index.php/2025/11/20/lancering-nieuwe-onderzoeksagenda-voor-het-brede-erfgoedveld/" },
+    { date: "2025-11-14", type: "defence", people: [],
+      title: "Marcel Robeer defends his PhD thesis \"Beyond Trust: A Causal Approach to Explainable AI in Law Enforcement\" (National Police Lab AI)",
+      text: "His toolkit helps police staff check AI systems for fairness and transparency.",
+      link: "https://www.uu.nl/en/news/an-ai-toolkit-for-uncovering-hidden-biases-in-police-algorithms" },
+    { date: "2025-10-15", type: "defence", people: ["Henry Prakken"],
+      title: "Wijnand van Woerkom defends his PhD thesis \"A Fortiori Case-Based Reasoning: Formal Studies with Applications in Artificial Intelligence and Law\"",
+      link: "https://research-portal.uu.nl/en/publications/a-fortiori-case-based-reasoning-formal-studies-with-applications-/" },
     { date: "2025-10-16", type: "event", people: ["Henry Prakken"],
       title: "Henry Prakken co-organises the symposium \"Ethical and Legal Perspectives on Explainable AI\"",
       link: "https://webspace.science.uu.nl/~prakk101/16oct25/" },
@@ -336,6 +356,9 @@ window.RAI = {
     { date: "2023-05-01", type: "people", people: ["Pınar Yolum"],
       title: "Pınar Yolum appointed full Professor of Trustworthy AI at Utrecht University",
       link: "https://profs.library.uu.nl/hoogleraar/yolum-birbil-p/" },
+    { date: "2024-04-04", type: "people", people: ["David van Kuijk"],
+      title: "David van Kuijk, AI architect at the Dutch Tax and Customs Administration, starts a dual PhD in the group",
+      link: "https://www.rijksorganisatieodi.nl/actueel/nieuws/2024/04/04/duale-promovendus-david-van-kuijk-duikt-de-komende-zes-jaar-diep-in-het-domein-van-kunstmatige-intelligentie" },
     { date: "2024-02-01", type: "people", people: ["Davide Dell'Anna", "Anastasia Apeiron"],
       title: "Welcome Davide Dell'Anna (Assistant Professor) and Anastasia Apeiron (PhD candidate)" }
   ],
