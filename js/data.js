@@ -397,7 +397,7 @@ window.RAI = {
       title: "Implementing Consent Awareness in LLM-Based Autonomous Agents",
       summary: "An LLM-based agent that decides by itself when an action needs consent, combining a formal consent model with a normative framework. It never asked for consent where people judged it unnecessary.",
       tags: ["Consent", "LLM agents", "Norms"],
-      links: [["Thesis", "https://studenttheses.uu.nl/handle/20.500.12932/53012"]] },
+      links: [["Thesis", "https://studenttheses.uu.nl/handle/20.500.12932/53012"], ["Code", "https://github.com/rai-uu/CAA-Kadir2026"]] },
     { year: 2025, student: "Alex Francis", programme: "MSc Artificial Intelligence", supervisors: "Henry Prakken",
       title: "Computational Argumentation for Military Decision-Making: A Case Study of the Dutch Airstrike on Hawija",
       summary: "Uses the ASPIC+ argumentation framework to structure an ethical and legal evaluation of the 2015 Dutch airstrike on Hawija, showing how the outcome depends on how values are prioritised.",
