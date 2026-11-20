@@ -352,19 +352,6 @@ window.RAI_PUBLICATIONS = [
  },
  {
   "year": 2026,
-  "title": "QuALA-NL: Question & Answer with Legal Attribution in Dutch",
-  "authors": [
-   "Romy A.N. van Drie",
-   "Roos M. Bakker",
-   "Daan Di Scala",
-   "Maaike de Boer"
-  ],
-  "venue": "Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026), pp. 674–684",
-  "type": "conference",
-  "link": "https://doi.org/10.63317/5i9bqybga69e"
- },
- {
-  "year": 2026,
   "title": "Rules of engagement: preserving academic values in impactful collaborations with public sector partners",
   "authors": [
    "Albert Meijer",
@@ -581,16 +568,6 @@ window.RAI_PUBLICATIONS = [
   "venue": "Public Performance & Management Review, vol. 48, no. 3, pp. 590–625",
   "type": "journal",
   "link": "https://doi.org/10.1080/15309576.2024.2443140"
- },
- {
-  "year": 2025,
-  "title": "Guidelines for developing Artificial Intelligence Strategies in Justice and Security",
-  "authors": [
-   "Bas Testerink"
-  ],
-  "venue": "Zenodo (report)",
-  "type": "other",
-  "link": "https://doi.org/10.5281/zenodo.17551206"
  },
  {
   "year": 2025,
