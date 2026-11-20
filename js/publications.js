@@ -135,25 +135,6 @@ window.RAI_PUBLICATIONS = [
  },
  {
   "year": 2026,
-  "title": "Disastrous Agent Behaviour—ABM and Behaviour Realism in Disaster Research",
-  "authors": [
-   "Harko Verhagen",
-   "Nanda Wijermans",
-   "Frank Dignum",
-   "Isabel Florence Franke",
-   "Fjalar J. de Haan",
-   "Ruth Meyer",
-   "Samuel Rufat",
-   "Loïs Vanhée",
-   "Xin Zhou",
-   "Lorenzo Zino"
-  ],
-  "venue": "Advances in Social Simulation: Proceedings of the 20th Social Simulation Conference (SSC 2025), Delft, The Netherlands, Springer Proceedings in Complexity, pp. 620–632",
-  "type": "conference",
-  "link": "https://doi.org/10.1007/978-3-032-31712-4_44"
- },
- {
-  "year": 2026,
   "title": "Dynamics in Formal Argumentation: A Survey with Emphasis on Structured Accounts",
   "authors": [
    "AnneMarie Borg"
@@ -185,19 +166,6 @@ window.RAI_PUBLICATIONS = [
   "venue": "Cognitive Computation, vol. 18, no. 1, article 109",
   "type": "journal",
   "link": "https://doi.org/10.1007/s12559-026-10654-y"
- },
- {
-  "year": 2026,
-  "title": "Engineering Norm-aware BDI Agents",
-  "authors": [
-   "Michael Winikoff",
-   "Frank Dignum",
-   "Sebastian Rodriguez",
-   "John Thangarajah"
-  ],
-  "venue": "Proceedings of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2026), Paphos, Cyprus",
-  "type": "conference",
-  "link": "https://doi.org/10.65109/sejs3352"
  },
  {
   "year": 2026,
@@ -279,17 +247,6 @@ window.RAI_PUBLICATIONS = [
   "venue": "Artificial Intelligence and Law, vol. 34, no. 4, pp. 1081–1125",
   "type": "journal",
   "link": "https://doi.org/10.1007/s10506-025-09461-x"
- },
- {
-  "year": 2026,
-  "title": "Integrating Large Language Models with Frame-Based Representations for Indigenous Knowledge",
-  "authors": [
-   "Virginia Dignum",
-   "Frank Dignum"
-  ],
-  "venue": "HHAI 2026: Proceedings of the 5th International Conference on Hybrid Human-Artificial Intelligence, Frontiers in Artificial Intelligence and Applications",
-  "type": "conference",
-  "link": "https://doi.org/10.3233/faia260516"
  },
  {
   "year": 2026,
@@ -428,24 +385,6 @@ window.RAI_PUBLICATIONS = [
   "venue": "CEUR Workshop Proceedings, vol. 4253 (edited volume)",
   "type": "book",
   "link": "https://ceur-ws.org/Vol-4253/"
- },
- {
-  "year": 2026,
-  "title": "Programming Smart Playtesting",
-  "authors": [
-   "I. S. W. B. Prasetya",
-   "Mehdi Dastani",
-   "Rui Prada",
-   "Tanja E. J. Vos",
-   "Frank Dignum",
-   "Fitsum Kifetew",
-   "Guido Mintjes",
-   "Samira Shirzadehhajimahmood",
-   "Saba Gholizadeh Ansari"
-  ],
-  "venue": "ACM Transactions on Software Engineering and Methodology, vol. 35, no. 3, pp. 1–47",
-  "type": "journal",
-  "link": "https://doi.org/10.1145/3742473"
  },
  {
   "year": 2026,
@@ -597,22 +536,6 @@ window.RAI_PUBLICATIONS = [
  },
  {
   "year": 2025,
-  "title": "Africa leading the global effort for AI that works for all",
-  "authors": [
-   "Georgina Curto",
-   "Frank Dignum",
-   "Girmaw Abebe Tadesse",
-   "Avishkar Bhoopchand",
-   "Sibusisiwe Makhanya",
-   "Vukosi Marivate",
-   "Emma Ruttkamp-Bloem"
-  ],
-  "venue": "Nature Africa (comment)",
-  "type": "other",
-  "link": "https://doi.org/10.1038/d44148-025-00141-1"
- },
- {
-  "year": 2025,
   "title": "AI, Law and beyond. A transdisciplinary ecosystem for the future of AI & Law",
   "authors": [
    "Floris Bex"
@@ -656,21 +579,6 @@ window.RAI_PUBLICATIONS = [
  },
  {
   "year": 2025,
-  "title": "Automated Game Testing With Online Search Agent and Model Construction, a Study",
-  "authors": [
-   "Samira Shirzadehhajimahmood",
-   "I. S. W. B. Prasetya",
-   "Davide Prandi",
-   "Frank Dignum",
-   "Mehdi Dastani",
-   "Gabriele Keller"
-  ],
-  "venue": "Software Testing, Verification and Reliability, vol. 35, no. 2, article e70002",
-  "type": "journal",
-  "link": "https://doi.org/10.1002/stvr.70002"
- },
- {
-  "year": 2025,
   "title": "Computational Models of Legal Argument",
   "authors": [
    "Trevor J. M. Bench-Capon",
@@ -682,22 +590,6 @@ window.RAI_PUBLICATIONS = [
   "venue": "IfCoLog Journal of Logics and their Applications (FLAP), vol. 12, no. 3, pp. 323–425",
   "type": "journal",
   "link": "https://www.collegepublications.co.uk/ifcolog/?00071"
- },
- {
-  "year": 2025,
-  "title": "Context Matters: Contextual Value-Based Deliberation in Water Consumption Scenarios",
-  "authors": [
-   "Luis Oliva-Felipe",
-   "Inês Lobo",
-   "Jack McKinlay",
-   "Frank Dignum",
-   "Marina De Vos",
-   "Ulises Cortés",
-   "Atia Cortés"
-  ],
-  "venue": "Value Engineering in Artificial Intelligence: Second International Workshop (VALE 2024), Santiago de Compostela, Spain, Revised Selected Papers, Lecture Notes in Computer Science, pp. 208–222",
-  "type": "workshop",
-  "link": "https://doi.org/10.1007/978-3-031-85463-7_13"
  },
  {
   "year": 2025,
@@ -758,45 +650,6 @@ window.RAI_PUBLICATIONS = [
   "venue": "Zenodo (report)",
   "type": "other",
   "link": "https://doi.org/10.5281/zenodo.17551206"
- },
- {
-  "year": 2025,
-  "title": "Human-AI coevolution",
-  "authors": [
-   "Dino Pedreschi",
-   "Luca Pappalardo",
-   "Emanuele Ferragina",
-   "Ricardo Baeza-Yates",
-   "Albert-László Barabási",
-   "Frank Dignum",
-   "Virginia Dignum",
-   "Tina Eliassi-Rad",
-   "Fosca Giannotti",
-   "János Kertész",
-   "Alistair Knott",
-   "Yannis Ioannidis",
-   "Paul Lukowicz",
-   "Andrea Passarella",
-   "Alex Sandy Pentland",
-   "John Shawe-Taylor",
-   "Alessandro Vespignani"
-  ],
-  "venue": "Artificial Intelligence, vol. 339, article 104244",
-  "type": "journal",
-  "link": "https://doi.org/10.1016/j.artint.2024.104244"
- },
- {
-  "year": 2025,
-  "title": "Institutions: a psychological perspective",
-  "authors": [
-   "Yoshihisa Kashima",
-   "Simon M. Laham",
-   "Frank Dignum",
-   "Simon Lindgren"
-  ],
-  "venue": "Handbook of Ethics and Social Psychology, Edward Elgar Publishing, pp. 362–384",
-  "type": "chapter",
-  "link": "https://doi.org/10.4337/9781035311804.00036"
  },
  {
   "year": 2025,
@@ -927,44 +780,6 @@ window.RAI_PUBLICATIONS = [
  },
  {
   "year": 2025,
-  "title": "Roadmap for AI policy research: AI policy research summit, Stockholm, November 2024",
-  "authors": [
-   "Virginia Dignum",
-   "Catherine Régis",
-   "Kerstin Bach",
-   "André P. L. F. de Carvalho",
-   "Ginevra Castellano",
-   "Frank Dignum",
-   "Elizabeth Farries",
-   "Fosca Giannotti",
-   "The Anh Han",
-   "Natali Helberger",
-   "Isadora Hellegren",
-   "Geert-Jan Houben",
-   "Anna Jahn",
-   "Somya Joshi",
-   "Mamadou Lamine Sarr",
-   "David Lewis",
-   "Anna-Sara Lind",
-   "Neema Lugangira",
-   "Helena Gorete Silva Moniz",
-   "Laurens Naudts",
-   "Syedina Moussa Ndiaye",
-   "Julia Palma",
-   "Dino Pedreschi",
-   "Nitin Sawhney",
-   "Sara Spaargaren",
-   "Nicole Tong",
-   "Edward Tsoi",
-   "Jason Tucker",
-   "Ysaline Bourgine de Meder"
-  ],
-  "venue": "Report of the AI Policy Research Summit, Stockholm, November 2024 (Umeå University)",
-  "type": "other",
-  "link": "https://umu.diva-portal.org/smash/get/diva2:2016630/FULLTEXT01"
- },
- {
-  "year": 2025,
   "title": "Social AI for a Healthier Lifestyle: Four Competencies to Manage and Prevent Chronic Diseases",
   "authors": [
    "Mark Neerincx",
@@ -1015,19 +830,6 @@ window.RAI_PUBLICATIONS = [
   "venue": "Journal of Artificial Intelligence Research, vol. 82, pp. 285–311",
   "type": "journal",
   "link": "https://doi.org/10.1613/jair.1.16402"
- },
- {
-  "year": 2025,
-  "title": "Value-Based Decision-Making in Software Agents: A Systematic Literature Review",
-  "authors": [
-   "Esteban Guerrero",
-   "Sz-Ting Tzeng",
-   "Cezara Pastrav",
-   "Frank Dignum"
-  ],
-  "venue": "Value Engineering in Artificial Intelligence: Second International Workshop (VALE 2024), Santiago de Compostela, Spain, Revised Selected Papers, Lecture Notes in Computer Science, pp. 137–154",
-  "type": "workshop",
-  "link": "https://doi.org/10.1007/978-3-031-85463-7_9"
  },
  {
   "year": 2024,
@@ -1154,43 +956,6 @@ window.RAI_PUBLICATIONS = [
  },
  {
   "year": 2024,
-  "title": "Cooperative Multi-agent Approach for Automated Computer Game Testing",
-  "authors": [
-   "Samira Shirzadehhajimahmood",
-   "I. S. W. B. Prasetya",
-   "Mehdi Dastani",
-   "Frank Dignum"
-  ],
-  "venue": "Engineering Multi-Agent Systems: 12th International Workshop (EMAS 2024), Auckland, New Zealand, Revised Selected Papers, Lecture Notes in Computer Science, pp. 23–41",
-  "type": "workshop",
-  "link": "https://doi.org/10.1007/978-3-031-71152-7_2"
- },
- {
-  "year": 2024,
-  "title": "Dynamic Context-Sensitive Deliberation",
-  "authors": [
-   "Maarten Jensen",
-   "Loïs Vanhée",
-   "Frank Dignum"
-  ],
-  "venue": "Multi-Agent-Based Simulation XXIV: 24th International Workshop (MABS 2023), London, UK, Revised Selected Papers, Lecture Notes in Computer Science, pp. 112–126",
-  "type": "workshop",
-  "link": "https://doi.org/10.1007/978-3-031-61034-9_8"
- },
- {
-  "year": 2024,
-  "title": "Dynamic Context-Sensitive Deliberation for Scalability in Realistic Social Simulations",
-  "authors": [
-   "Maarten Jensen",
-   "Loïs Vanhée",
-   "Frank Dignum"
-  ],
-  "venue": "Advances in Social Simulation: Proceedings of the 18th Social Simulation Conference (SSC 2023), Glasgow, UK, Springer Proceedings in Complexity, pp. 533–545",
-  "type": "conference",
-  "link": "https://doi.org/10.1007/978-3-031-57785-7_41"
- },
- {
-  "year": 2024,
   "title": "Effective Maintenance of Computational Theory of Mind for Human-AI Collaboration",
   "authors": [
    "Emre Erdogan",
@@ -1211,20 +976,6 @@ window.RAI_PUBLICATIONS = [
   "venue": "Proceedings of the Fifth International Workshop on Systems and Algorithms for Formal Argumentation (SAFA 2024), CEUR Workshop Proceedings, vol. 3757, pp. 83–89",
   "type": "workshop",
   "link": "https://ceur-ws.org/Vol-3757/paper6.pdf"
- },
- {
-  "year": 2024,
-  "title": "EmoSTL: Formal Spatial-Temporal Verification of Emotion Specifications in Computer Games",
-  "authors": [
-   "Saba Gholizadeh Ansari",
-   "I. S. W. B. Prasetya",
-   "Mehdi Dastani",
-   "Frank Dignum",
-   "Gabriele Keller"
-  ],
-  "venue": "2024 IEEE Conference on Software Testing, Verification and Validation (ICST 2024), pp. 13–24",
-  "type": "conference",
-  "link": "https://doi.org/10.1109/icst60714.2024.00011"
  },
  {
   "year": 2024,
@@ -1276,17 +1027,6 @@ window.RAI_PUBLICATIONS = [
   "venue": "Frontiers in Artificial Intelligence, vol. 7, article 1260952",
   "type": "journal",
   "link": "https://doi.org/10.3389/frai.2024.1260952"
- },
- {
-  "year": 2024,
-  "title": "Human-centric AI and Education",
-  "authors": [
-   "John Shawe-Taylor",
-   "Frank Dignum"
-  ],
-  "venue": "Journal of Artificial Intelligence for Sustainable Development, vol. 1, no. 1, pp. 1–4",
-  "type": "journal",
-  "link": "https://doi.org/10.69828/4d4k91"
  },
  {
   "year": 2024,
@@ -1387,22 +1127,6 @@ window.RAI_PUBLICATIONS = [
  },
  {
   "year": 2024,
-  "title": "PX-MBT: A framework for model-based player experience testing",
-  "authors": [
-   "Saba Gholizadeh Ansari",
-   "I. S. W. B. Prasetya",
-   "Mehdi Dastani",
-   "Gabriele Keller",
-   "Davide Prandi",
-   "Fitsum Meshesha Kifetew",
-   "Frank Dignum"
-  ],
-  "venue": "Science of Computer Programming, vol. 236, article 103108",
-  "type": "journal",
-  "link": "https://doi.org/10.1016/j.scico.2024.103108"
- },
- {
-  "year": 2024,
   "title": "Related Explanations in Formal Argumentation, an Empirical Study",
   "authors": [
    "Roos Scheffers",
@@ -1455,18 +1179,6 @@ window.RAI_PUBLICATIONS = [
   "venue": "Proceedings of the 23rd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2024), Auckland, New Zealand, pp. 434–443",
   "type": "conference",
   "link": "https://doi.org/10.65109/hdyk2529"
- },
- {
-  "year": 2024,
-  "title": "Towards a Social Simulation Interaction Tool for Policy Makers—A New Research Agenda to Enable Usage of More Complex Social Simulations",
-  "authors": [
-   "Christian Kammler",
-   "Frank Dignum",
-   "Nanda Wijermans"
-  ],
-  "venue": "Advances in Social Simulation: Proceedings of the 18th Social Simulation Conference (SSC 2023), Glasgow, UK, Springer Proceedings in Complexity, pp. 163–176",
-  "type": "conference",
-  "link": "https://doi.org/10.1007/978-3-031-57785-7_14"
  },
  {
   "year": 2024,
@@ -1536,28 +1248,6 @@ window.RAI_PUBLICATIONS = [
   "venue": "Coordination, Organizations, Institutions, Norms, and Ethics for Governance of Multi-Agent Systems XVI: COINE 2023 (workshop at AAMAS 2023, London, UK, 29 May 2023), Revised Selected Papers, Lecture Notes in Computer Science, Springer, pp. 3–20",
   "type": "workshop",
   "link": "https://doi.org/10.1007/978-3-031-49133-7_1"
- },
- {
-  "year": 2023,
-  "title": "From fear to action: AI governance and opportunities for all",
-  "authors": [
-   "Kevin Baum",
-   "Joanna Bryson",
-   "Frank Dignum",
-   "Virginia Dignum",
-   "Marko Grobelnik",
-   "Holger Hoos",
-   "Morten Irgens",
-   "Paul Lukowicz",
-   "Catelijne Muller",
-   "Francesca Rossi",
-   "John Shawe-Taylor",
-   "Andreas Theodorou",
-   "Ricardo Vinuesa"
-  ],
-  "venue": "Frontiers in Computer Science, vol. 5, article 1210421",
-  "type": "journal",
-  "link": "https://doi.org/10.3389/fcomp.2023.1210421"
  },
  {
   "year": 2023,
