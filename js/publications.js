@@ -249,6 +249,16 @@ window.RAI_PUBLICATIONS = [
  },
  {
   "year": 2026,
+  "title": "Machine translation on sign language: A study of linguistic augmentation under simulated low-resource conditions",
+  "authors": [
+   "Begüm Mutlu Bilge"
+  ],
+  "venue": "Information Sciences, vol. 765, article 124335",
+  "type": "journal",
+  "link": "https://doi.org/10.1016/j.ins.2026.124335"
+ },
+ {
+  "year": 2026,
   "title": "Mind the Context: Continual Learning of Socially Appropriate Robot Actions via Environmental-Social Disentanglement",
   "authors": [
    "Rafal Robert Karpinski",
